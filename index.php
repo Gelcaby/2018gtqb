@@ -20,7 +20,7 @@
 	<body style="background-color:#2588cb;color:#fff;text-align:center;padding:0;margin:0;overflow:hidden;" scroll="no">
 	<center>
 		<img style="margin-top:10%;height:140px;weigh:140px;background-color:white;border-radius: 15px;" src="favicon.ico"/>
-		<h1>2018钢铁七班</h1>
+		<h1>2018级钢铁七班</h1>
    <form class="form-signin" action="chat.php" method="post" style="width:300px;">
 		<div class="input-group">
   <span class="input-group-addon">姓名</span>
