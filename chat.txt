@@ -250,5 +250,6 @@ function checkmsg(){
 </div>
         </div>
 	</div>
+	<p><strong>诸位大侠请注意：消息中包含符号“$”或“&”会造成乱码，字数超过64个可能会造成发送失败。</strong></p>
 </body>
 </html>
