@@ -2,10 +2,10 @@
 	if(file_exists("config.php")) {
 		require "config.php";
 	} else {
-		define("title","2018钢铁七班 网站");
+		define("title","2018级钢铁七班 网站");
 	};
 	if(!defined("title")){
-		define("title","2018钢铁七班 网站");
+		define("title","2018级钢铁七班 网站");
 	};
 ?>
 <!DOCTYPE HTML>
